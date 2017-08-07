@@ -15,9 +15,9 @@ b=int(raw_input("Enter second no:"))
 
 if choice == 1 :
     print (add(a,b))
-if choice ==2 :
+if choice == 2 :
     print (sub(a,b))
-if choice == 2:
+if choice == 3:
     print (sub(a, b))
-if choice == 2:
+if choice == 4:
     print (sub(a, b))
