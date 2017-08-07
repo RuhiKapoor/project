@@ -1,1 +1,2 @@
-print 'Let\'s get started!'
+list = ["This","is","my","India"]
+print list [0]
